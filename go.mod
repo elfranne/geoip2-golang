@@ -1,4 +1,4 @@
-module github.com/oschwald/geoip2-golang/v2
+module github.com/elfranne/geoip2-golang/v2
 
 go 1.24
 
